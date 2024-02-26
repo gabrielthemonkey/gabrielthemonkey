@@ -1,3 +1,3 @@
--Reverse Engineer at Wizz Softworks. 
+-Reverse Engineer at Atsrum. 
 -Intrested in developing cheat software for games.
--Known C#, Python, Luau, C++ and C
+-Knows C#, Python, Luau, C++ and C
